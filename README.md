@@ -13,3 +13,9 @@ The are 2 main files in the project.
 2. Runscripts.R: Runs the previously initialized functions
 
 Function.R script has to be run before the Runscripts.R script. 
+
+Requirements: 
+R versioh: R-3.5.1
+Packages:
+- pROC_1.16.1 
+
